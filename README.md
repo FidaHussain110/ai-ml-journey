@@ -48,7 +48,8 @@ As I progress through each phase, I will fill these folders with hands-on projec
 |---|---------|----------|--------|
 | 01 | Countdown Timer | For loops, time module | `01_python-fundamentals` |
 | 02 | Natural Tranquilizer (4-7-8 Breathing Simulator) | While loops, conditionals, user input, time module | `01_python-fundamentals` |
-| 03 | Mini Vector Search Engine | For and while loops, llists, functions  | `01_python-fundamentals` |
+| 03 | Mini Vector Search Engine | For and while loops, lists, functions  | `01_python-fundamentals` |
+| 04 | [Word Frequency and text Statistics Analyzer](https://github.com/FidaHussainLarik/word-frequency-and-text-statistics-analyzer)| Python Data Structures | `Has its own dedicated repo` |
 
 ---
 

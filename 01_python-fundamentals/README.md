@@ -7,10 +7,10 @@ Early Python practice projects — the starting point of my AI Engineering journ
 
 | # | Project | What it covers |
 |---|---------|-----------------|
-| — | [Arithmetic Calculator](./arithmatic_calculator.py) | Functions, input validation loops, basic operator handling |
-| 01 | [Natural Tranquilizer for the Nervous System](./01_natural_tranquilizer) | `while` loops, counters, `if/else`, the `time` module — a 4-7-8 breathing simulator built after a countdown timer tutorial |
-| 02 | [Count Down Timer](./02_count-down-timer) | The tutorial project that led to the breathing simulator idea |
-| 03 | [Mini Vector Search Engine](./03_Mini_Vector_Search_Engine) | Functions, nested loops, list/string operations — a toy word-matching retrieval system, my first hands-on look at how RAG-style search works |
+| 01| [Arithmetic Calculator](./arithmatic_calculator.py) | Functions, input validation loops, basic operator handling |
+| 02 | [Natural Tranquilizer for the Nervous System](./01_natural_tranquilizer) | `while` loops, counters, `if/else`, the `time` module — a 4-7-8 breathing simulator built after a countdown timer tutorial |
+| 03 | [Count Down Timer](./02_count-down-timer) | The tutorial project that led to the breathing simulator idea |
+| 04 | [Mini Vector Search Engine](./03_Mini_Vector_Search_Engine) | Functions, nested loops, list/string operations — a toy word-matching retrieval system, my first hands-on look at how RAG-style search works |
 
 Each subfolder has its own README with details, the idea behind it, and what I'd improve next.
 
