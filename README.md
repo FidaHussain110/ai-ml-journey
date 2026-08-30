@@ -30,12 +30,12 @@ I have built a structured **learning roadmap** that takes me from Python fundame
 ai-ml-journey/
 │
 ├── 01_python-fundamentals/    ← Where it all begins
-├── 02_data-science/           ← Coming soon
-├── 03_fullstack-web-basics/   ← Coming soon
-├── 04_machine-learning/       ← Coming soon
-├── 05_deep-learning/          ← Coming soon
-├── 06_python-apis/            ← Coming soon
-└── 07_generative-ai-&-MLOps/  ← Coming soon
+├── 02_data-science/           
+├── 03_fullstack-web-basics/   
+├── 04_machine-learning/       
+├── 05_deep-learning/          
+├── 06_python-apis/           
+└── 07_generative-ai-&-MLOps/ 
 ```
 
 As I progress through each phase, I will fill these folders with hands-on projects. Each directory will feature its own dedicated README detailing what I built, the core concepts applied, and my key takeaways.
